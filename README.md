@@ -387,6 +387,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 262   | [Who owns the Sprint Backlog? (choose the best answer)](#who-owns-the-sprint-backlog-choose-the-best-answer) |
 | 263   | [Which of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)](#which-of-the-following-are-appropriate-topics-for-discussion-during-a-sprint-retrospective-choose-the-best-two-answers) |
 | 264   | [What is the Product Owner responsible for during the Sprint Retrospective? (choose the best answer)](#what-is-the-product-owner-responsible-for-during-the-sprint-retrospective-choose-the-best-answer) |
+| 265   | [The Developers find out during the Sprint that they are not likely to build everything they forecast. What would you expect a Product Owner to do? (choose the best answer)](#the-developers-find-out-during-the-sprint-that-they-are-not-likely-to-build-everything-they-forecast-what-would-you-expect-a-product-owner-to-do-choose-the-best-answer) |
+| 266   | [When does a Developer become accountable for an item in the Sprint Backlog? (choose the best answer)](#when-does-a-developer-become-accountable-for-an-item-in-the-sprint-backlog-choose-the-best-answer) |
+| 267   | [Which of the following are criteria to order Product Backlog items? (choose the best three answers)](#which-of-the-following-are-criteria-to-order-product-backlog-items-choose-the-best-three-answers) |
+| 268   | [When multiple Scrum Teams are working on a single product, what best describes the Definition of Done? (choose the best answer)](#when-multiple-scrum-teams-are-working-on-a-single-product-what-best-describes-the-definition-of-done) |
+| 269   | [You are the Scrum Master for four Scrum Teams working from the same Product Backlog. Several of the Developers come to you complaining that work identified for the upcoming two Sprints will require full-time commitment from a specialist who is external to the Scrum Teams. What should the Scrum Master keep in mind when deciding what to do about the complaint from the Developers? (choose the best two answers)](#you-are-the-scrum-master-for-four-scrum-teams-working-from-the-same-product-backlog-several-of-the-developers-come-to-you-complaining-that-work-identified-for-the-upcoming-two-sprints-will-require-full-time-commitment-from-a-specialist-who-is-external-to-the-scrum-teams-what-should-the-scrum-master-keep-in-mind-when-deciding-what-to-do-about-the-complaint-from-the-developers-choose-the-best-two-answers) |
+| 270   | [Scrum requires that the Product Owner must use which of the following techniques? (choose the best answer)](#scrum-requires-that-the-product-owner-must-use-which-of-the-following-techniques-choose-the-best-answer) |
+| 271   | [Is the Product Owner required to be present at the Sprint Retrospective? (choose the best answer)](#is-the-product-owner-required-to-be-present-at-the-sprint-retrospective-choose-the-best-answer) |
+| 272   | [The Product Owner will often monitor and share progress of the Product Backlog by using which method? (choose the best answer)](#the-product-owner-will-often-monitor-and-share-progress-of-the-product-backlog-by-using-which-method-choose-the-best-answer) |
 
 ### A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog? Stability requirements. Performance requirements. Product Functionality. Documentation. Fixes. (choose the best answer)
 
@@ -2677,5 +2685,72 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The Product Owner should not take part in Sprint Retrospective.
 - [ ] Capturing requirements for the Product Backlog.
 - [ ] Summarizing and reporting the discussions to the stakeholders that they represent in the Scrum Team.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### The Developers find out during the Sprint that they are not likely to build everything they forecast. What would you expect a Product Owner to do? (choose the best answer)
+- [ ] Skip Product Backlog refinement activities.
+- [ ] Inform management that more Developers are needed.
+- [ ] Change the Sprint Goal.
+- [x] Re-work the selected Product Backlog items with the Developers to meet the Sprint Goal.
+- [ ] Cancel the Sprint.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### When does a Developer become accountable for an item in the Sprint Backlog? (choose the best answer)
+- [ ] At Sprint Planning when all of the Sprint Backlog items are split evenly across the Developers.
+- [ ] During the Daily Serum.
+- [x] Never. All Developers on the Scrum Team share accountability for items in the Sprint Backlog.
+- [ ] As soon as a Developer on the Serum Team can accommodate more work.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of the following are criteria to order Product Backlog items? (choose the best three answers)
+- [ ] The number of stakeholders who approve of the item.
+- [x] Their relevance to achieving the Product Goal.
+- [x] The value of the Product Backlog items.
+- [ ] The availability of the Scrum Master.
+- [x] Dependencies between Product Backlog items.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### When multiple Scrum Teams are working on a single product, what best describes the Definition of Done?
+(choose the best answer)
+- [ ] Each Scrum Team defines and uses its own. The differences are discussed and reconciled during a hardening Sprint.
+- [ ] The Scrum Masters from each Scrum Team define a common Definition of Done
+- [ ] Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known.
+- [x] When multiple Scrum Teams are working together on a product, they must mutually define and comply with the same Definition of Done.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You are the Scrum Master for four Scrum Teams working from the same Product Backlog. Several of the Developers come to you complaining that work identified for the upcoming two Sprints will require full-time commitment from a specialist who is external to the Scrum Teams. What should the Scrum Master keep in mind when deciding what to do about the complaint from the Developers? (choose the best two answers)
+- [x] The benefit of allowing the Developers to identify a solution for themselves.
+- [ ] The desire to maintain a stable velocity.
+- [x] The ability of the Scrum Teams to produce integrated Increments.
+- [ ] The need to have enough work to keep all Developers busy.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Scrum requires that the Product Owner must use which of the following techniques? (choose the best answer)
+- [ ] There is no required technique.
+- [ ] Feature burn-up
+- [ ] Critical Path Analysis
+- [x] Burndown chart
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Is the Product Owner required to be present at the Sprint Retrospective? (choose the best answer)
+- [x] Their attendance is mandatory. The Sprint Retrospective is an opportunity for the Scrum Team to assess and improve itself.
+- [ ] They are optional. Attendance is only required when the Product Owner gets invited by the Scrum Master.
+- [ ] They are not allowed. The Sprint Retrospective is an opportunity for the Developers to improve.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### The Product Owner will often monitor and share progress of the Product Backlog by using which method? (choose the best answer)
+- [x] A Product or Release burn-down chart.
+- [ ] A Value burn-up chart
+- [ ] A Gantt chart
+- [ ] Any practice based on trends of work completed and upcoming work.
+- [ ] A Sprint Review acceptance report
 
 **[⬆ Back to Top](#table-of-contents)**
